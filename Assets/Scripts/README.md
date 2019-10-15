@@ -1,2 +1,2 @@
 # Scripts
-pop not script folder
+script folder
