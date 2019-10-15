@@ -1,2 +1,2 @@
 # Animations
-pop not animations folder
+animations folder
