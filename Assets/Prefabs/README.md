@@ -1,2 +1,2 @@
 # Prefabs
-pop not prefabs folder
+prefabs folder
